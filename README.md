@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **bljptp111@gmail.com**
 
-### Socials
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/Lakshmi Jahnavi Bavisetti/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/Lakshmi Jahnavi Bavisetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Lakshmi Jahnavi Bavisetti/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/21a31a4202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/21a31a4202" height="30" width="40" /></a>
+<a href="https://leetcode.com/jahnavi0011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jahnavi0011/" height="30" width="40" /></a>
+</p>
 
 ### Skills
 
